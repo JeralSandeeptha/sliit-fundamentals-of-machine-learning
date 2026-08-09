@@ -21,8 +21,8 @@ Linear Regression, Logistic Regression, Decision Trees, and Support Vector Machi
 
 These are the most used Supervised Learning Algorythms
 
-- [Linear Regression]()
-- [Logistic Regression]()
+- [Linear Regression](../sl/linear-regresssion.md)
+- [Logistic Regression](../sl/logistic-regression.md)
 - [Support Vector Machine | SVM]()
 - [K-Nearest Neighbours | KNN]()
 - [Naive Bias]()
