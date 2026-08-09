@@ -39,3 +39,40 @@ It finds a straight line of best fit through data points to show how one variabl
 ![Image](../../images/linear-r-02.png)
 
 [View Multiple Linear Regression Example](../../python/linear-regression/Multiple%20Variable.ipynb)
+
+---
+
+## How do we get the best fit line?
+
+This is automatically doing by the model internally but,
+
+For that it is using `Cost Function` and `Gradient Decent` for that
+
+<br/>
+
+### Cost Function
+
+The `cost function` measures how wrong your model's predictions are
+
+\(J(m,b)=\frac{1}{n}\sum _{i=1}^{n}(y_{pred}-y_{actual})^{2}\)
+
+<br/>
+
+![Image](../../images/cost-function.png)
+
+![Image](../../images/cost-function-00.png)
+
+<br/>
+
+### Gradient Decent
+
+`gradient descent` is the optimization algorithm used to minimize that error by updating the model's weights
+
+\(m=m-\alpha \frac{\partial J}{\partial m}\)
+
+<br/>
+
+![Image](../../images/cost-function-02.png)
+
+---
+
