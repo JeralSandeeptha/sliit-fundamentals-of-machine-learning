@@ -6,7 +6,7 @@
 
 It finds a straight line of best fit through data points to show how one variable affects another
 
-<br/>
+---
 
 ## How It Works
 
@@ -22,7 +22,7 @@ It finds a straight line of best fit through data points to show how one variabl
 
 ![Image](../../images/linear-r-03.png)
 
-<br/>
+---
 
 ## Types of Linear Regression
 
@@ -30,6 +30,12 @@ It finds a straight line of best fit through data points to show how one variabl
 
 ![Image](../../images/linear-r-01.png)
 
+[View Simple Linear Regression Example](../../python/linear-regression/Single%20variable.ipynb)
+
+<br/>
+
 `Multiple Linear Regression`: Uses two or more input variables to make a prediction (like predicting a house price using both its size and the number of rooms)
 
 ![Image](../../images/linear-r-02.png)
+
+[View Multiple Linear Regression Example](../../python/linear-regression/Multiple%20Variable.ipynb)
