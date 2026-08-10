@@ -1,5 +1,9 @@
 # Types of Machine Learning
 
+![Image](../../images/ml-algo-types.gif)
+
+---
+
 - [Supervised Learning](./sl.md)
 - [Unsupervised Learning](./ul.md)
 - [Reinforcement Learning](./rl.md)
