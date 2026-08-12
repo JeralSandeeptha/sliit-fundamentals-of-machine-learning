@@ -14,8 +14,13 @@ Example: Identifying if an email is "Spam" or "Not Spam".
 Predicts continuous numerical values.
 Example: Forecasting house prices based on size and location.
 
+[How to use data for train and test](../data-train/index.md)
+
+[How to test regression models](../evaluate/regression.md)
+
 **Common Algorithms**:
-Linear Regression, Logistic Regression, Decision Trees, and Support Vector Machines (SVM).
+
+- Linear Regression, Logistic Regression, Decision Trees, and Support Vector Machines (SVM).
 
 ---
 
