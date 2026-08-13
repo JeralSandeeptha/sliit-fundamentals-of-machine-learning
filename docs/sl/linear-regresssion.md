@@ -73,6 +73,3 @@ The `cost function` measures how wrong your model's predictions are
 <br/>
 
 ![Image](../../images/cost-function-02.png)
-
----
-
