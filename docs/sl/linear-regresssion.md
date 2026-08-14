@@ -2,7 +2,7 @@
 
 ![Image](../../images/linear-regression.png)
 
-`Linear regression` is a basic statistical and machine learning method used to predict a number value based on another variable
+`Linear regression` is a basic statistical and machine learning method used to predict a number value / continuos values based on another variable
 
 It finds a straight line of best fit through data points to show how one variable affects another
 
