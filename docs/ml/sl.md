@@ -33,3 +33,20 @@ These are the most used Supervised Learning Algorythms
 - [Naive Bias]()
 - [Decision Tree]()
 - [Random Forest]()
+
+---
+
+## Overfitting & Underfitting
+
+Problems are,
+
+![Image](../../images/regression-01.png)
+![Image](../../images/classification-01.png)
+
+<br/>
+<br/>
+
+Solutions are,
+
+![Image](../../images/overfitting-sol.png)
+![Image](../../images/underfitting-sol.png)
