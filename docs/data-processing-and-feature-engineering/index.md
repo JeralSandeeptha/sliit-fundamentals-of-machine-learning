@@ -38,6 +38,12 @@ Data Preprocessing is done between when we have raw data and model training phas
 
 ![Image](../../images/features-01.png)
 
+![Image](../../images/features-01.png)
+
+In `Features Selection` we select most wanted features only
+
+In `Features Extraction` we combined some columns and create new columns as we want
+
 ---
 
 ## One Hot Encoding
