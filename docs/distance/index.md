@@ -5,3 +5,7 @@ We need to measure distance between datapoints for some algorythms like `K-Neare
 ![Image](../../images/cosine-distance.png)
 ![Image](../../images/euclidian-distance.png)
 ![Image](../../images/manhaton-distance.png)
+
+<br/>
+
+[Refer distance doc](../../python/distance/Distance%20Matrices.ipynb)
