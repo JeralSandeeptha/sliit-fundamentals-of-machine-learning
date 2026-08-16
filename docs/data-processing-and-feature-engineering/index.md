@@ -36,6 +36,10 @@ Data Preprocessing is done between when we have raw data and model training phas
 
 ---
 
+![Image](../../images/features-01.png)
+
+---
+
 ## One Hot Encoding
 
 Suppose, we have below data set.
@@ -49,3 +53,10 @@ For that one we use `One Hot Encoding Method`
 ![Image](../../images/one-hot-encoding-01.png)
 
 So, `this is a data pre-processing step that turns text or category names into numbers. It makes a new column for each unique choice. It puts a 1 to show the right choice and 0 for all other choices`
+
+## Examples
+
+Look these examples about how we doing the feature enginneering when we have a superived / unsupervised problem
+
+[Supervised Example](../../python/feature-selectioins/feature_selection_supervised_learning.ipynb)
+[Unsupervised Example](../../python/feature-selectioins/feature_selection_unsupervised_learning.ipynb)
