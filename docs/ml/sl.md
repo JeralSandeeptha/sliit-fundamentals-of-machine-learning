@@ -28,11 +28,11 @@ These are the most used Supervised Learning Algorythms
 
 - [Linear Regression](../sl/linear-regresssion.md)
 - [Logistic Regression](../sl/logistic-regression.md)
-- [Support Vector Machine | SVM]()
-- [K-Nearest Neighbours | KNN]()
-- [Naive Bias]()
-- [Decision Tree]()
-- [Random Forest]()
+- [K-Nearest Neighbours | KNN](../sl/knn.md)
+- [Decision Tree](../sl/decision-tree.md)
+- [Random Forest](../sl/random-forest.md)
+- [Naive Bias](../sl/naive-bias.md)
+- [Support Vector Machine | SVM](../sl/svm.md)
 
 ---
 
