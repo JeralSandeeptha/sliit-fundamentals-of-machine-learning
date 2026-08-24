@@ -66,3 +66,17 @@ Look these examples about how we doing the feature enginneering when we have a s
 
 [Supervised Example](../../python/feature-selectioins/feature_selection_supervised_learning.ipynb)
 [Unsupervised Example](../../python/feature-selectioins/feature_selection_unsupervised_learning.ipynb)
+
+---
+
+## Outlier Detection
+
+If our data set has unusual abnormal data, we can identify those things as `Outliers`
+
+We can remove those things as well
+
+![Image](../../images/outlier-detection.png)
+
+<br/>
+
+![Image](../../images/outliers-cal.png)
