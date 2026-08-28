@@ -21,8 +21,7 @@ K-Means Clustering, Hierarchical Clustering, and Apriori.
 
 These are the unsupervised learning algorythms
 
-- [K-Means Clustering]()
-- [Heirarchical Clustering]()
-- [Independent Component Analysis]()
-- [Principle Component Analysis | PCA]()
-- [Singular Value Decomposition]()
+- [K-Means Clustering](../ul/k-mean-clustering.md)
+- [Heirarchical Clustering](../ul/heirarchical-clustering.md)
+- [Principle Component Analysis | PCA](../ul/pca.md)
+- [DBSCAN Clustering](../ul/dbscan.md)
