@@ -37,3 +37,5 @@
 | **Semi-Supervised** | Mostly Unlabeled + Few Labeled | Improve accuracy cheaply | Facial recognition tagging |
 | **Self-Supervised** | Raw Data (Self-Labeled) | Learn foundational context | LLM text generation |
 | **Reinforcement** | Environment Interactions | Maximize reward via decisions | Robotics & Autonomous cars |
+
+![Image](../../images/comparison-types.png)
