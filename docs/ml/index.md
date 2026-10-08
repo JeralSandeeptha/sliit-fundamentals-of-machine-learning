@@ -5,13 +5,26 @@
 ---
 
 - [Supervised Learning](./sl.md)
+
+![Image](../../images/sl.png)
+
 - [Unsupervised Learning](./ul.md)
+
+![Image](../../images/ul.png)
+
 - [Reinforcement Learning](./rl.md)
+
+![Image](../../images/rl.png)
 
 ---
 
 - [Semi-Supervised Learning](./ssl.md)
+
+![Image](../../images/ssl.png)
+
 - [Self-Supervised Learning](./ssle.md)
+
+![Image](../../images/sesl.png)
 
 ---
 
