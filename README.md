@@ -1,7 +1,9 @@
 # Machine Learning
 
 - [Introduction](./docs/intro/index.md)
+- [History of ML](./docs/intro/history.md)
 - [Types of ML](./docs/ml/index.md)
+- [ML Lifecycle](./docs/lifecycle/index.md)
 - [Data Preprocessing & Feature Engineering](./docs/data-processing-and-feature-engineering/index.md)
 - [Data Train](./docs/data-train/index.md)
 - [Cross Validation](./docs/cross-validation/index.md)
