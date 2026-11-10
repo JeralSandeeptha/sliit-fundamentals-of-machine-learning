@@ -42,8 +42,10 @@ We get the lowest entrophy count as best for a one feature
 
 So if we calculate entrophies for all features we can decide what tree is going to be the best one
 
+We need to get the `lowest entrophy score` tree
+
 <br/>
 
 ## Example
 
-[Example](../../python/decision-tree/DT.ipynb)
+[View Example](../../python/decision-tree/DT.ipynb)
