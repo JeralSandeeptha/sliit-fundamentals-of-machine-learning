@@ -1,5 +1,7 @@
 # Supervised Learning
 
+![Image](../../images/sl-01.png)
+
 The model trains on `labeled data`, meaning it receives both the input and the correct final answer.
 
 It works like a student learning with an answer key.
@@ -17,10 +19,6 @@ Example: Forecasting house prices based on size and location.
 [How to use data for train and test](../data-train/index.md)
 
 [How to test regression models](../evaluate/regression.md)
-
-**Common Algorithms**:
-
-- Linear Regression, Logistic Regression, Decision Trees, and Support Vector Machines (SVM).
 
 ---
 
