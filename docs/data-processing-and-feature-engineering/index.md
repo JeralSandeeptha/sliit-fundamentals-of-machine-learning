@@ -22,23 +22,36 @@ Data Preprocessing is done between when we have raw data and model training phas
 
 <br/>
 
-## Data Cleaning Workflow
+## Feature Types
 
-![Image](../../images/pre-04.png)
+![Image](../../images/feat-type-01.png)
+![Image](../../images/feat-type-2.png)
 
 <br/>
 
-![Image](../../images/pre-05.png)
+## Preprocessing Techniques
 
+- [Data Cleaning](./cleanning.md)
+<br/>
+
+- [Feature Scaling](./fsc.md)
+<br/>
+
+- [Feature Engineering](./fe.md)
+<br/>
+
+- [Outlier Detection](./od.md)
+<br/>
+
+- [One Hot Encoding](./ohe.md)
+<br/>
+
+- [Dimensionality Reduction](./dr.md)
 <br/>
 
 ![Image](../../images/pre-06.png)
 
 ---
-
-![Image](../../images/features-01.png)
-
-![Image](../../images/features-01.png)
 
 In `Features Selection` we select most wanted features only
 
