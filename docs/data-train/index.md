@@ -1,4 +1,4 @@
-# Train - Test Data Split
+# Data Train & Test
 
 We split data into training and test sets to `evaluate how well a machine learning model generalizes to new, unseen data`
 
