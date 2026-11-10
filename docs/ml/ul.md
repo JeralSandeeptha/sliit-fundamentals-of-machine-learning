@@ -1,5 +1,7 @@
 # Unsupervised Learning
 
+![Image](../../images/ul-01.png)
+
 The model trains on `unlabeled` data.
 
 It must find hidden patterns, structures, and groupings on its own without any human guidance.
