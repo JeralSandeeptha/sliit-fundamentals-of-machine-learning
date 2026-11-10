@@ -1,5 +1,7 @@
 # Reinforcement Learning
 
+![Image](../../images/rl-01.png)
+
 The model learns by `interacting with an environment` through a system of trial and error
 
 <br/>
