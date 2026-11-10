@@ -4,6 +4,10 @@
 
 It works by finding a decision boundary, called a hyperplane, that best splits data points into different groups or classes
 
+We select this model type:
+
+**If we need to maximize the separation between classes, work with high-dimensional spaces, or deal with limited training data**
+
 <br/>
 
 ![Image](../../images/svm-01.png)
